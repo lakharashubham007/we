@@ -1,0 +1,1308 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "RCCL(Rajasthan Celebrity Cricket League) - AUCTION",
+      "category": "Auction",
+      "tag": "Meetup",
+      "img": "/images/members/we2.png",
+      "eventImg": "/images/members/we2.png",
+      "price": 60,
+      "offPrice": 90,
+      "location": "Udaipur",
+      "time": "10:00 am - 3:00 pm",
+      "badgeDate": "23 July",
+      "badgeYear": "2025",
+      "desc": "The most thrilling pre-season moment is here! The RCCL Auction brings Rajasthan’s celebrity cricket teams face-to-face as they bid for their dream squads. Get ready for fierce competition, smart strategies, and high-energy deals — all under one roof in Udaipur.",
+      "descTwo": "An electrifying blend of cricket, celebrities, and strategy. Witness the making of the RCCL 2025 teams live. Don’t miss the energy, excitement, and entertainment.",
+      "eventContent": [
+        {
+          "listItem": "Live celebrity cricket team auctions"
+        },
+        {
+          "listItem": "Exclusive access to bidding strategies"
+        },
+        {
+          "listItem": "Meet & greet with celebrity players and team owners"
+        },
+        {
+          "listItem": "Behind-the-scenes sneak peeks and interviews"
+        },
+        {
+          "listItem": "Exciting giveaways and merchandise"
+        },
+        {
+          "listItem": "Interactive fan engagement zones"
+        },
+        {
+          "listItem": "Premium seating and hospitality options"
+        },
+        {
+          "listItem": "Live coverage and commentary during auction"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Get an insider look into Rajasthan’s most awaited cricket auction."
+        },
+        {
+          "listItem": "Watch celebrities and sports personalities bid for their dream teams."
+        },
+        {
+          "listItem": "Enjoy a vibrant cricketing atmosphere with live reactions."
+        },
+        {
+          "listItem": "An event designed for cricket lovers, fans, and enthusiasts alike."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is the RCCL Auction?",
+          "desc": "It’s the official team auction for the Rajasthan Celebrity Cricket League 2025. Celebrities and team owners bid on players to form their teams.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Can fans attend the auction?",
+          "desc": "Yes! Limited seats are open to fans who book early. You'll experience the auction live and get access to exclusive interactions.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will celebrities be present?",
+          "desc": "Absolutely! You’ll see your favorite celebrity team owners, players, and influencers participating in the event.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Is there any merchandise or giveaway?",
+          "desc": "Yes, official RCCL merchandise and fan giveaways will be available at the venue.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Where can I watch if I can't attend?",
+          "desc": "The auction will be broadcast live on our streaming partner’s platform. Details will be shared soon.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Mr.Rakesh",
+          "img": "/images/members/pfb.png",
+          "type": "Creator",
+          "location": "Rajasthan",
+          "desc": "Yes, I am a Creator. I have a passion content creation."
+        },
+        {
+          "name": "Priti Singhaniya",
+          "img": "/images/members/pfg.png",
+          "type": "Producer",
+          "location": "Mumbai, India",
+          "desc": "Yes, I am a Producer."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "RCCL Celebrity Practice Match",
+          "category": "Sports",
+          "eventImg": "/images/members/cs.png",
+          "location": "Jaipur Stadium",
+          "time": "4:00 pm - 7:00 pm",
+          "badgeDate": "28 July",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "RCCL Opening Ceremony",
+          "category": "Celebration",
+          "eventImg": "/images/members/cs.png",
+          "location": "Udaipur",
+          "time": "6:00 pm - 9:00 pm",
+          "badgeDate": "1 Aug",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "25 Jan, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "7.00Pm"
+        },
+        {
+          "text": "End Date",
+          "desc": "25 Jan, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "1000+"
+        },
+        {
+          "text": "Location",
+          "desc": "USA"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Language",
+          "desc": "USA"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "We Wagad Association Opening",
+      "category": "Opening",
+      "tag": "Community",
+      "img": "/images/members/we1.png",
+      "eventImg": "/images/members/we1.png",
+      "price": 70,
+      "offPrice": 120,
+      "location": "Udaipur",
+      "time": "10:30 am - 4:00 pm",
+      "badgeDate": "15 May",
+      "badgeYear": "2025",
+      "desc": "Celebrate the grand beginning of We Wagad Association — a vibrant initiative to unite, uplift, and empower the Wagad community. Join us for an inspiring day filled with culture, collaboration, and connection as we open doors to a new journey.",
+      "descTwo": "The opening ceremony will feature cultural showcases, guest talks, community highlights, and a shared vision for the future. Let's mark this milestone together in Udaipur!",
+      "eventContent": [
+        {
+          "listItem": "Inauguration ceremony by special guests"
+        },
+        {
+          "listItem": "Cultural performances from local artists"
+        },
+        {
+          "listItem": "Interactive sessions and community bonding activities"
+        },
+        {
+          "listItem": "Presentation of the Association’s vision and initiatives"
+        },
+        {
+          "listItem": "Traditional refreshments and networking"
+        },
+        {
+          "listItem": "Photography & media coverage for attendees"
+        },
+        {
+          "listItem": "Open Q&A with founding members"
+        },
+        {
+          "listItem": "Guest speakers from social & business sectors"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "A warm and inclusive community celebration."
+        },
+        {
+          "listItem": "Witness the official launch of the We Wagad Association."
+        },
+        {
+          "listItem": "Opportunities to get involved, contribute, and connect."
+        },
+        {
+          "listItem": "A cultural experience grounded in values and unity."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is the purpose of this event?",
+          "desc": "This event marks the official launch of the We Wagad Association, aiming to create a community-driven platform for growth and collaboration.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Who can attend?",
+          "desc": "The event is open to all — especially members of the Wagad community, well-wishers, partners, and supporters from various sectors.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Is there any registration needed?",
+          "desc": "Basic registration at the entry gate is recommended for smooth check-in and seating arrangements.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will there be food or refreshments?",
+          "desc": "Yes, traditional snacks and refreshments will be served as part of the community gathering experience.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "How can I support or volunteer?",
+          "desc": "You can speak to any organizing committee member at the event or reach out via our contact form on the official website.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Kiran Patel",
+            "img": "/images/members/pfg.png",
+          "type": "Social Worker",
+          "location": "Ahmedabad, India",
+          "desc": "Founding member of the We Wagad Association, focused on youth empowerment and education."
+        },
+        {
+          "name": "Rahul Joshi",
+            "img": "/images/members/pfb.png",
+          "type": "Entrepreneur",
+          "location": "Udaipur, India",
+          "desc": "Community supporter and cultural ambassador bringing innovation into rural development."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Wagad Talent Showcase 2025",
+          "category": "Cultural",
+           "eventImg": "/images/members/cs.png",
+          "location": "Bhuj",
+          "time": "11:00 am - 6:00 pm",
+          "badgeDate": "18 June",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "We Wagad Women's Meet 2025",
+          "category": "Empowerment",
+           "eventImg": "/images/members/cs.png",
+          "location": "Rajkot",
+          "time": "9:00 am - 2:00 pm",
+          "badgeDate": "21 Aug",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "15 May, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "10:30 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "15 May, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "500+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Udaipur"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Participation Certificate"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi, Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Award Ceremony – Upcoming",
+      "category": "Meetup",
+      "tag": "Online",
+      "img": "/images/members/we4.png",
+      "eventImg": "/images/members/we4.png",
+      "price": 30,
+      "offPrice": 50,
+      "location": "Dungarpur",
+      "time": "11:00 am - 1:00 pm",
+      "badgeDate": "11 Oct",
+      "badgeYear": "2025",
+      "desc": "The upcoming Award Ceremony celebrates excellence across various fields—education, entrepreneurship, social work, and innovation. Join us online as we honor individuals who’ve made remarkable contributions to society and uplifted their communities.",
+      "descTwo": "From recognizing young changemakers to applauding lifetime achievements, this event aims to encourage, inspire, and spotlight real impact. Let's celebrate the spirit of progress—together, virtually.",
+      "eventContent": [
+        {
+          "listItem": "Opening address and welcome message by host"
+        },
+        {
+          "listItem": "Guest keynote from respected community leaders"
+        },
+        {
+          "listItem": "Award presentations across multiple categories"
+        },
+        {
+          "listItem": "Short documentary clips of awardee journeys"
+        },
+        {
+          "listItem": "Cultural performance interludes"
+        },
+        {
+          "listItem": "Interactive audience engagement polls"
+        },
+        {
+          "listItem": "Live chat and virtual shoutouts for participants"
+        },
+        {
+          "listItem": "Closing note and group photo (virtual session)"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Recognize extraordinary individuals and teams."
+        },
+        {
+          "listItem": "Showcase inspirational stories from awardees."
+        },
+        {
+          "listItem": "Promote community appreciation and unity."
+        },
+        {
+          "listItem": "Create a platform to elevate social role models."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "Is the event open to everyone?",
+          "desc": "Yes, it is a public virtual event and anyone interested can join via the provided link. Pre-registration is advised.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Do I need a ticket to watch online?",
+          "desc": "While the event is free, a nominal ticket helps us manage access and logistics. Early bird tickets are discounted.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can I nominate someone for next year?",
+          "desc": "Absolutely! Nominations will open right after this year's ceremony. Details will be shared during the event.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will a recording be available?",
+          "desc": "Yes, registered users will get access to a recording and highlights via email after the ceremony.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will certificates be given?",
+          "desc": "Yes, awardees and select attendees will receive e-certificates acknowledging their contributions or participation.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Dr. Nivedita Sharma",
+          "img": "/images/members/pfg.png",
+          "type": "Educator & Social Reformer",
+          "location": "Dungarpur, Rajasthan",
+          "desc": "Honored for her lifelong dedication to tribal education and women’s empowerment in rural Rajasthan."
+        },
+        {
+          "name": "Rajveer Mehta",
+           "img": "/images/members/pfb.png",
+          "type": "Youth Entrepreneur",
+          "location": "Udaipur, India",
+          "desc": "Recognized for launching an innovative rural logistics startup that now employs over 120 people locally."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Rajasthan Youth Icon Awards 2025",
+          "category": "Recognition",
+          "eventImg": "/images/members/cs.png",
+          "location": "Jaipur",
+          "time": "4:00 pm - 7:00 pm",
+          "badgeDate": "15 Nov",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "Artisans Recognition Fest",
+          "category": "Cultural",
+           "eventImg": "/images/members/cs.png",
+          "location": "Jodhpur",
+          "time": "10:00 am - 3:00 pm",
+          "badgeDate": "2 Dec",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "11 Oct, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "11:00 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "11 Oct, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "300+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Dungarpur (Online)"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi & English"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Celebrity Get Together",
+      "category": "Meetup",
+      "tag": "meetup",
+      "img": "/images/members/we5.png",
+      "eventImg": "/images/members/we5.png",
+      "price": 70,
+      "offPrice": 120,
+      "location": "Dungarpur",
+      "time": "11:30 am - 2:00 pm",
+      "badgeDate": "5 Mar",
+      "badgeYear": "2025",
+      "desc": "A grand celebrity meet-up like never before! Join popular film stars, influencers, and TV personalities for an unforgettable afternoon of fun, music, and conversations. Get ready for selfies, behind-the-scenes stories, and exclusive moments—right here in Dungarpur!",
+      "descTwo": "This gathering bridges entertainment with inspiration. Come hear untold success stories, participate in fan interactions, and enjoy live performances that bring glitz and glamour to your day.",
+      "eventContent": [
+        {
+          "listItem": "Red carpet celebrity welcome with media coverage"
+        },
+        {
+          "listItem": "Live Q&A and candid talk show-style sessions"
+        },
+        {
+          "listItem": "Fan photo ops and autograph booths"
+        },
+        {
+          "listItem": "Special musical performance by guest artist"
+        },
+        {
+          "listItem": "Short film/documentary screening"
+        },
+        {
+          "listItem": "Interactive contests and giveaways"
+        },
+        {
+          "listItem": "Live food stalls and local artists' showcase"
+        },
+        {
+          "listItem": "Closing ceremony with celebrity group photo"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Meet your favorite celebrities face-to-face."
+        },
+        {
+          "listItem": "Enjoy music, laughter, and entertainment in one place."
+        },
+        {
+          "listItem": "Capture behind-the-scenes moments with stars."
+        },
+        {
+          "listItem": "Create memories with India's pop culture icons."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "Who will be the celebrity guests?",
+          "desc": "While the full list is a surprise, confirmed guests include popular TV actors, a Bollywood playback singer, and a trending influencer. Full details will be shared a week before the event.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Do I need to bring my ticket printout?",
+          "desc": "You can show your e-ticket on your phone. Printed passes are optional but help with quicker entry.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can we take photos with celebrities?",
+          "desc": "Yes! Designated zones for selfies and group photos will be arranged. Be polite and follow the line.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will food be available?",
+          "desc": "Absolutely. Local food stalls and refreshments will be available for purchase inside the venue.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can kids attend the event?",
+          "desc": "Yes, it’s a family-friendly event. Kids below 10 years can enter free with a registered adult.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Karan Oberoi",
+           "img": "/images/members/pfb.png",
+          "type": "TV Actor & Anchor",
+          "location": "Mumbai, India",
+          "desc": "Best known for his lead roles in hit Hindi serials and his work as a motivational speaker for youth events."
+        },
+        {
+          "name": "Mira Kapoor",
+           "img": "/images/members/pfg.png",
+          "type": "Influencer & Lifestyle Blogger",
+          "location": "Delhi, India",
+          "desc": "A digital creator inspiring millions through fashion, self-growth, and real-life journeys. TEDx speaker and wellness coach."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Bollywood Buzz Dhamaka 2025",
+          "category": "Entertainment",
+           "eventImg": "/images/members/cs.png",
+          "location": "Mumbai",
+          "time": "6:00 pm - 10:00 pm",
+          "badgeDate": "15 Apr",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "StarTalk Live - Jaipur Edition",
+          "category": "Media",
+           "eventImg": "/images/members/cs.png",
+          "location": "Jaipur",
+          "time": "4:00 pm - 8:00 pm",
+          "badgeDate": "28 Feb",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Mar, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "11:30 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "5 Mar, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "500+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Dungarpur"
+        },
+        {
+          "text": "Certificate",
+          "desc": "No"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi & English"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "RCCL(Rajasthan Celebrity Cricket League) - AUCTION",
+      "category": "Auction",
+      "tag": "Meetup",
+      "img": "/images/members/we2.png",
+      "eventImg": "/images/members/we2.png",
+      "price": 60,
+      "offPrice": 90,
+      "location": "Udaipur",
+      "time": "10:00 am - 3:00 pm",
+      "badgeDate": "23 July",
+      "badgeYear": "2025",
+      "desc": "The most thrilling pre-season moment is here! The RCCL Auction brings Rajasthan’s celebrity cricket teams face-to-face as they bid for their dream squads. Get ready for fierce competition, smart strategies, and high-energy deals — all under one roof in Udaipur.",
+      "descTwo": "An electrifying blend of cricket, celebrities, and strategy. Witness the making of the RCCL 2025 teams live. Don’t miss the energy, excitement, and entertainment.",
+      "eventContent": [
+        {
+          "listItem": "Live celebrity cricket team auctions"
+        },
+        {
+          "listItem": "Exclusive access to bidding strategies"
+        },
+        {
+          "listItem": "Meet & greet with celebrity players and team owners"
+        },
+        {
+          "listItem": "Behind-the-scenes sneak peeks and interviews"
+        },
+        {
+          "listItem": "Exciting giveaways and merchandise"
+        },
+        {
+          "listItem": "Interactive fan engagement zones"
+        },
+        {
+          "listItem": "Premium seating and hospitality options"
+        },
+        {
+          "listItem": "Live coverage and commentary during auction"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Get an insider look into Rajasthan’s most awaited cricket auction."
+        },
+        {
+          "listItem": "Watch celebrities and sports personalities bid for their dream teams."
+        },
+        {
+          "listItem": "Enjoy a vibrant cricketing atmosphere with live reactions."
+        },
+        {
+          "listItem": "An event designed for cricket lovers, fans, and enthusiasts alike."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is the RCCL Auction?",
+          "desc": "It’s the official team auction for the Rajasthan Celebrity Cricket League 2025. Celebrities and team owners bid on players to form their teams.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Can fans attend the auction?",
+          "desc": "Yes! Limited seats are open to fans who book early. You'll experience the auction live and get access to exclusive interactions.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will celebrities be present?",
+          "desc": "Absolutely! You’ll see your favorite celebrity team owners, players, and influencers participating in the event.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Is there any merchandise or giveaway?",
+          "desc": "Yes, official RCCL merchandise and fan giveaways will be available at the venue.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Where can I watch if I can't attend?",
+          "desc": "The auction will be broadcast live on our streaming partner’s platform. Details will be shared soon.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Mr.Rakesh",
+          "img": "/images/members/pfb.png",
+          "type": "Creator",
+          "location": "Rajasthan",
+          "desc": "Yes, I am a Creator. I have a passion content creation."
+        },
+        {
+          "name": "Priti Singhaniya",
+          "img": "/images/members/pfg.png",
+          "type": "Producer",
+          "location": "Mumbai, India",
+          "desc": "Yes, I am a Producer."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "RCCL Celebrity Practice Match",
+          "category": "Sports",
+          "eventImg": "/images/members/cs.png",
+          "location": "Jaipur Stadium",
+          "time": "4:00 pm - 7:00 pm",
+          "badgeDate": "28 July",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "RCCL Opening Ceremony",
+          "category": "Celebration",
+          "eventImg": "/images/members/cs.png",
+          "location": "Udaipur",
+          "time": "6:00 pm - 9:00 pm",
+          "badgeDate": "1 Aug",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "25 Jan, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "7.00Pm"
+        },
+        {
+          "text": "End Date",
+          "desc": "25 Jan, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Basic"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "1000+"
+        },
+        {
+          "text": "Location",
+          "desc": "USA"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Language",
+          "desc": "USA"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "We Wagad Association Opening",
+      "category": "Opening",
+      "tag": "Community",
+      "img": "/images/members/we1.png",
+      "eventImg": "/images/members/we1.png",
+      "price": 70,
+      "offPrice": 120,
+      "location": "Udaipur",
+      "time": "10:30 am - 4:00 pm",
+      "badgeDate": "15 May",
+      "badgeYear": "2025",
+      "desc": "Celebrate the grand beginning of We Wagad Association — a vibrant initiative to unite, uplift, and empower the Wagad community. Join us for an inspiring day filled with culture, collaboration, and connection as we open doors to a new journey.",
+      "descTwo": "The opening ceremony will feature cultural showcases, guest talks, community highlights, and a shared vision for the future. Let's mark this milestone together in Udaipur!",
+      "eventContent": [
+        {
+          "listItem": "Inauguration ceremony by special guests"
+        },
+        {
+          "listItem": "Cultural performances from local artists"
+        },
+        {
+          "listItem": "Interactive sessions and community bonding activities"
+        },
+        {
+          "listItem": "Presentation of the Association’s vision and initiatives"
+        },
+        {
+          "listItem": "Traditional refreshments and networking"
+        },
+        {
+          "listItem": "Photography & media coverage for attendees"
+        },
+        {
+          "listItem": "Open Q&A with founding members"
+        },
+        {
+          "listItem": "Guest speakers from social & business sectors"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "A warm and inclusive community celebration."
+        },
+        {
+          "listItem": "Witness the official launch of the We Wagad Association."
+        },
+        {
+          "listItem": "Opportunities to get involved, contribute, and connect."
+        },
+        {
+          "listItem": "A cultural experience grounded in values and unity."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "What is the purpose of this event?",
+          "desc": "This event marks the official launch of the We Wagad Association, aiming to create a community-driven platform for growth and collaboration.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Who can attend?",
+          "desc": "The event is open to all — especially members of the Wagad community, well-wishers, partners, and supporters from various sectors.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Is there any registration needed?",
+          "desc": "Basic registration at the entry gate is recommended for smooth check-in and seating arrangements.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will there be food or refreshments?",
+          "desc": "Yes, traditional snacks and refreshments will be served as part of the community gathering experience.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "How can I support or volunteer?",
+          "desc": "You can speak to any organizing committee member at the event or reach out via our contact form on the official website.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Kiran Patel",
+            "img": "/images/members/pfg.png",
+          "type": "Social Worker",
+          "location": "Ahmedabad, India",
+          "desc": "Founding member of the We Wagad Association, focused on youth empowerment and education."
+        },
+        {
+          "name": "Rahul Joshi",
+            "img": "/images/members/pfb.png",
+          "type": "Entrepreneur",
+          "location": "Udaipur, India",
+          "desc": "Community supporter and cultural ambassador bringing innovation into rural development."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Wagad Talent Showcase 2025",
+          "category": "Cultural",
+           "eventImg": "/images/members/cs.png",
+          "location": "Bhuj",
+          "time": "11:00 am - 6:00 pm",
+          "badgeDate": "18 June",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "We Wagad Women's Meet 2025",
+          "category": "Empowerment",
+           "eventImg": "/images/members/cs.png",
+          "location": "Rajkot",
+          "time": "9:00 am - 2:00 pm",
+          "badgeDate": "21 Aug",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "15 May, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "10:30 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "15 May, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "500+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Udaipur"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Participation Certificate"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi, Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Award Ceremony – Upcoming",
+      "category": "Meetup",
+      "tag": "Online",
+      "img": "/images/members/we4.png",
+      "eventImg": "/images/members/we4.png",
+      "price": 30,
+      "offPrice": 50,
+      "location": "Dungarpur",
+      "time": "11:00 am - 1:00 pm",
+      "badgeDate": "11 Oct",
+      "badgeYear": "2025",
+      "desc": "The upcoming Award Ceremony celebrates excellence across various fields—education, entrepreneurship, social work, and innovation. Join us online as we honor individuals who’ve made remarkable contributions to society and uplifted their communities.",
+      "descTwo": "From recognizing young changemakers to applauding lifetime achievements, this event aims to encourage, inspire, and spotlight real impact. Let's celebrate the spirit of progress—together, virtually.",
+      "eventContent": [
+        {
+          "listItem": "Opening address and welcome message by host"
+        },
+        {
+          "listItem": "Guest keynote from respected community leaders"
+        },
+        {
+          "listItem": "Award presentations across multiple categories"
+        },
+        {
+          "listItem": "Short documentary clips of awardee journeys"
+        },
+        {
+          "listItem": "Cultural performance interludes"
+        },
+        {
+          "listItem": "Interactive audience engagement polls"
+        },
+        {
+          "listItem": "Live chat and virtual shoutouts for participants"
+        },
+        {
+          "listItem": "Closing note and group photo (virtual session)"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Recognize extraordinary individuals and teams."
+        },
+        {
+          "listItem": "Showcase inspirational stories from awardees."
+        },
+        {
+          "listItem": "Promote community appreciation and unity."
+        },
+        {
+          "listItem": "Create a platform to elevate social role models."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "Is the event open to everyone?",
+          "desc": "Yes, it is a public virtual event and anyone interested can join via the provided link. Pre-registration is advised.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Do I need a ticket to watch online?",
+          "desc": "While the event is free, a nominal ticket helps us manage access and logistics. Early bird tickets are discounted.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can I nominate someone for next year?",
+          "desc": "Absolutely! Nominations will open right after this year's ceremony. Details will be shared during the event.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will a recording be available?",
+          "desc": "Yes, registered users will get access to a recording and highlights via email after the ceremony.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will certificates be given?",
+          "desc": "Yes, awardees and select attendees will receive e-certificates acknowledging their contributions or participation.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Dr. Nivedita Sharma",
+          "img": "/images/members/pfg.png",
+          "type": "Educator & Social Reformer",
+          "location": "Dungarpur, Rajasthan",
+          "desc": "Honored for her lifelong dedication to tribal education and women’s empowerment in rural Rajasthan."
+        },
+        {
+          "name": "Rajveer Mehta",
+           "img": "/images/members/pfb.png",
+          "type": "Youth Entrepreneur",
+          "location": "Udaipur, India",
+          "desc": "Recognized for launching an innovative rural logistics startup that now employs over 120 people locally."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Rajasthan Youth Icon Awards 2025",
+          "category": "Recognition",
+          "eventImg": "/images/members/cs.png",
+          "location": "Jaipur",
+          "time": "4:00 pm - 7:00 pm",
+          "badgeDate": "15 Nov",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "Artisans Recognition Fest",
+          "category": "Cultural",
+           "eventImg": "/images/members/cs.png",
+          "location": "Jodhpur",
+          "time": "10:00 am - 3:00 pm",
+          "badgeDate": "2 Dec",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "11 Oct, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "11:00 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "11 Oct, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "300+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Dungarpur (Online)"
+        },
+        {
+          "text": "Certificate",
+          "desc": "Yes"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi & English"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Celebrity Get Together",
+      "category": "Meetup",
+      "tag": "meetup",
+      "img": "/images/members/we5.png",
+      "eventImg": "/images/members/we5.png",
+      "price": 70,
+      "offPrice": 120,
+      "location": "Dungarpur",
+      "time": "11:30 am - 2:00 pm",
+      "badgeDate": "5 Mar",
+      "badgeYear": "2025",
+      "desc": "A grand celebrity meet-up like never before! Join popular film stars, influencers, and TV personalities for an unforgettable afternoon of fun, music, and conversations. Get ready for selfies, behind-the-scenes stories, and exclusive moments—right here in Dungarpur!",
+      "descTwo": "This gathering bridges entertainment with inspiration. Come hear untold success stories, participate in fan interactions, and enjoy live performances that bring glitz and glamour to your day.",
+      "eventContent": [
+        {
+          "listItem": "Red carpet celebrity welcome with media coverage"
+        },
+        {
+          "listItem": "Live Q&A and candid talk show-style sessions"
+        },
+        {
+          "listItem": "Fan photo ops and autograph booths"
+        },
+        {
+          "listItem": "Special musical performance by guest artist"
+        },
+        {
+          "listItem": "Short film/documentary screening"
+        },
+        {
+          "listItem": "Interactive contests and giveaways"
+        },
+        {
+          "listItem": "Live food stalls and local artists' showcase"
+        },
+        {
+          "listItem": "Closing ceremony with celebrity group photo"
+        }
+      ],
+      "eventDescription": [
+        {
+          "listItem": "Meet your favorite celebrities face-to-face."
+        },
+        {
+          "listItem": "Enjoy music, laughter, and entertainment in one place."
+        },
+        {
+          "listItem": "Capture behind-the-scenes moments with stars."
+        },
+        {
+          "listItem": "Create memories with India's pop culture icons."
+        }
+      ],
+      "eventFaq": [
+        {
+          "title": "Who will be the celebrity guests?",
+          "desc": "While the full list is a surprise, confirmed guests include popular TV actors, a Bollywood playback singer, and a trending influencer. Full details will be shared a week before the event.",
+          "collapsed": true,
+          "isShow": true,
+          "expand": true
+        },
+        {
+          "title": "Do I need to bring my ticket printout?",
+          "desc": "You can show your e-ticket on your phone. Printed passes are optional but help with quicker entry.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can we take photos with celebrities?",
+          "desc": "Yes! Designated zones for selfies and group photos will be arranged. Be polite and follow the line.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Will food be available?",
+          "desc": "Absolutely. Local food stalls and refreshments will be available for purchase inside the venue.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        },
+        {
+          "title": "Can kids attend the event?",
+          "desc": "Yes, it’s a family-friendly event. Kids below 10 years can enter free with a registered adult.",
+          "collapsed": false,
+          "isShow": false,
+          "expand": false
+        }
+      ],
+      "eventParticipants": [
+        {
+          "name": "Karan Oberoi",
+           "img": "/images/members/pfb.png",
+          "type": "TV Actor & Anchor",
+          "location": "Mumbai, India",
+          "desc": "Best known for his lead roles in hit Hindi serials and his work as a motivational speaker for youth events."
+        },
+        {
+          "name": "Mira Kapoor",
+           "img": "/images/members/pfg.png",
+          "type": "Influencer & Lifestyle Blogger",
+          "location": "Delhi, India",
+          "desc": "A digital creator inspiring millions through fashion, self-growth, and real-life journeys. TEDx speaker and wellness coach."
+        }
+      ],
+      "eventSimilar": [
+        {
+          "title": "Bollywood Buzz Dhamaka 2025",
+          "category": "Entertainment",
+           "eventImg": "/images/members/cs.png",
+          "location": "Mumbai",
+          "time": "6:00 pm - 10:00 pm",
+          "badgeDate": "15 Apr",
+          "badgeYear": "2025"
+        },
+        {
+          "title": "StarTalk Live - Jaipur Edition",
+          "category": "Media",
+           "eventImg": "/images/members/cs.png",
+          "location": "Jaipur",
+          "time": "4:00 pm - 8:00 pm",
+          "badgeDate": "28 Feb",
+          "badgeYear": "2025"
+        }
+      ],
+      "roadmap": [
+        {
+          "text": "Start Date",
+          "desc": "5 Mar, 2025"
+        },
+        {
+          "text": "Start Time",
+          "desc": "11:30 am"
+        },
+        {
+          "text": "End Date",
+          "desc": "5 Mar, 2025"
+        },
+        {
+          "text": "Skill Level",
+          "desc": "Open to All"
+        },
+        {
+          "text": "Ongoing",
+          "desc": "500+ Expected"
+        },
+        {
+          "text": "Location",
+          "desc": "Dungarpur"
+        },
+        {
+          "text": "Certificate",
+          "desc": "No"
+        },
+        {
+          "text": "Language",
+          "desc": "Hindi & English"
+        }
+      ]
+    }
+  ]
+}
