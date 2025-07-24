@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect } from "react";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 import "bootstrap/scss/bootstrap.scss";
 import "../public/scss/default/euclid-circulara.scss";
@@ -28,6 +29,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" dir="ltr">
       <body className="" suppressHydrationWarning={true}>
+         <GoogleAnalytics />
         {children}
       </body>
     </html>

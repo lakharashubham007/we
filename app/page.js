@@ -1,6 +1,7 @@
 import BackToTop from "./backToTop";
 import HomePage from "./wewagad/page";
 
+
 export const metadata = {
   title: "Home - WeWagad",
   description: "wewagad celebrity club.",
