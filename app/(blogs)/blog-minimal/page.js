@@ -3,8 +3,8 @@ import BlogGridMinimalPage from "./(blog-minimal)";
 import { getAllPostsMeta } from "@/mdx";
 
 export const metadata = {
-  title: "Blog Grid - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Blog Grid - WeWagad",
+  description: "WeWagad Digital Platform",
 };
 
 const BlogGridMinimalLayout = async () => {

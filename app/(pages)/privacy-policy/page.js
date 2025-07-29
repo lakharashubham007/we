@@ -1,10 +1,9 @@
 import PrivacyPolicyPage from "./(privacy-policy)";
 
 export const metadata = {
-  title: "Privacy Policy - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "",
+  description: "",
 };
-
 const PrivacyPolicyLayout = () => {
   return (
     <>

@@ -3,8 +3,8 @@ import LessonPage from "./(lesson)";
 
 export const metadata = {
   title:
-    "Questions Below Each Other - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+    "Questions Below Each Other - WeWagad",
+  description: "WeWagad Online",
 };
 
 const LessonLayout = () => {

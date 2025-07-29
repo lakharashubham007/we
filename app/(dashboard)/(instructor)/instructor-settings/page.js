@@ -2,10 +2,9 @@ import BackToTop from "@/app/backToTop";
 import SettingPage from "./(settings)";
 
 export const metadata = {
-  title: "Instructor Settings - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "",
+  description: "",
 };
-
 const SettingLayout = () => {
   return (
     <>

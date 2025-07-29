@@ -1,8 +1,8 @@
 import NotFound from "@/components/NotFound/NotFound";
 
 export const metadata = {
-  title: "Page not found - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Page not found - WeWagad",
+  description: "Wewaga Not Found",
 };
 
 const ErrorPage = () => {

@@ -2,8 +2,8 @@ import BackToTop from "@/app/backToTop";
 import LessonQuizLayout from "./(quiz)";
 
 export const metadata = {
-  title: "Lesson Quiz - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Lesson Quiz - WeWagad",
+  description: "WeWagad",
 };
 
 const LessonQuizPage = () => {

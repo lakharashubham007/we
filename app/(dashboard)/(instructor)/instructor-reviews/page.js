@@ -2,9 +2,8 @@ import BackToTop from "@/app/backToTop";
 import ReviewPage from "./(reviews)";
 
 export const metadata = {
-  title:
-    "Instructor Reviews Course - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "",
+  description: "",
 };
 
 const ReviewLayout = () => {
